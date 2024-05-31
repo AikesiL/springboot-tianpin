@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-schema
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: huawei
+Implementation-Vendor-Id: com.jlwl
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot4op8n
+Created-By: Maven Integration for Eclipse
+
